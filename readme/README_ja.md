@@ -3,7 +3,7 @@
   <a title="Chinese" href="../README.md">简体中文</a> | <a title="English" href="README_en.md">English</a> | 日本語 |  <a title="Russian" href="README_ru.md">Russian</a> | <a title="Korean" href="README_ko.md">한국어</a>
 </div>
 
-<h1 align="center">川虎 Chat 🐯 Chuanhu Chat</h1>
+<h1 align="center">川虎 Chat 🐯 ChatGPT</h1>
 <div align="center">
   <a href="https://github.com/GaiZhenBiao/ChuanhuChatGPT">
     <img src="https://github.com/GaiZhenbiao/ChuanhuChatGPT/assets/70903329/aca3a7ec-4f1d-4667-890c-a6f47bf08f63" alt="Logo" height="156">
@@ -83,7 +83,7 @@
 
 ### 🤖 システムプロンプト
 - システムプロンプトを使用して前提条件を設定すると、ロールプレイが効果的に行えます。
-- 川虎Chatはプロンプトテンプレートを予め設定しており、「プロンプトテンプレートを読み込む」をクリックして、まずプロンプトテンプレートコレクションを選択し、次に下部で希望のプロンプトを選択します。
+- ChatGPTはプロンプトテンプレートを予め設定しており、「プロンプトテンプレートを読み込む」をクリックして、まずプロンプトテンプレートコレクションを選択し、次に下部で希望のプロンプトを選択します。
 
 ### 💬 ベーシックな対話
 - もし回答が満足できない場合、「再生成」ボタンを使用して再試行するか、直接「このラウンドの対話を削除」することができます。

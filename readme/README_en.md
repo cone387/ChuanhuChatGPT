@@ -3,7 +3,7 @@
   <a title="Chinese" href="../README.md">简体中文</a> | English | <a title="Japanese" href="README_ja.md">日本語</a> | <a title="Russian" href="README_ru.md">Russian</a> | <a title="Korean" href="README_ko.md">한국어</a>
 </div>
 
-<h1 align="center">川虎 Chat 🐯 Chuanhu Chat</h1>
+<h1 align="center">川虎 Chat 🐯 ChatGPT</h1>
 <div align="center">
   <a href="https://github.com/GaiZhenBiao/ChuanhuChatGPT">
     <img src="https://github.com/GaiZhenbiao/ChuanhuChatGPT/assets/70903329/aca3a7ec-4f1d-4667-890c-a6f47bf08f63" alt="Logo" height="156">
@@ -52,7 +52,7 @@
 
 <sup>New!</sup> Now you can let the large model automatically name the history (Enabled in the settings or configuration file).
 
-<sup>New!</sup> Chuanhu Chat can now be installed as a PWA application for a more native experience! Supported on Chrome/Edge/Safari etc.
+<sup>New!</sup> ChatGPT can now be installed as a PWA application for a more native experience! Supported on Chrome/Edge/Safari etc.
 
 <sup>New!</sup> Icons adapted for all platforms, looking more comfortable.
 
@@ -138,7 +138,7 @@ Then make a copy of `config_example.json`, rename it to `config.json`, and then 
 python ChuanhuChatbot.py
 ```
 
-A browser window will automatically open, at this point you can use **Chuanhu Chat** to chat with ChatGPT or other models.
+A browser window will automatically open, at this point you can use **ChatGPT** to chat with ChatGPT or other models.
 
 > **Note**
 >

@@ -3,7 +3,7 @@
   <a title="Chinese" href="../README.md">简体中文</a> |  <a title="English" href="README_en.md">English</a> | <a title="Japanese" href="README_ja.md">日本語</a> | <a title="Russian" href="README_ru.md">Russian</a> | 한국어
 </div>
 
-<h1 align="center">川虎 Chat 🐯 Chuanhu Chat</h1>
+<h1 align="center">川虎 Chat 🐯 ChatGPT</h1>
 <div align="center">
   <a href="https://github.com/GaiZhenBiao/ChuanhuChatGPT">
     <img src="https://github.com/GaiZhenbiao/ChuanhuChatGPT/assets/70903329/aca3a7ec-4f1d-4667-890c-a6f47bf08f63" alt="Logo" height="156">
@@ -52,7 +52,7 @@
 
 <sup>New!</sup> 자동으로 대화 기록의 이름을 설정할 수 있습니다. (설정에서 활성화 필요).
 
-<sup>New!</sup> Chuanhu Chat는 이제 Chrome/Edge/Safari 등 브라우저를 지원하는 PWA입니다.
+<sup>New!</sup> ChatGPT는 이제 Chrome/Edge/Safari 등 브라우저를 지원하는 PWA입니다.
 
 <sup>New!</sup> 아이콘들이 플랫폼에 맞게 조정되어, 더 자연스럽습니다.
 
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 python ChuanhuChatbot.py
 ```
 
-브라우저가 자동으로 열리고 **Chuanhu Chat**를 사용해 ChatGPT 또는 다른 모델들을 사용할 수 있습니다.
+브라우저가 자동으로 열리고 **ChatGPT**를 사용해 ChatGPT 또는 다른 모델들을 사용할 수 있습니다.
 
 > **참고**
 >
